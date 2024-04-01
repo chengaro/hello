@@ -1,6 +1,6 @@
 package hello
 
-const msg = "Hello, v1.0.0"
+const msg = "Hello, v1.1.0"
 
 func Hello() string {
 	return msg
